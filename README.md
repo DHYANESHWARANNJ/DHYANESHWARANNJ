@@ -10,7 +10,7 @@
       <img src="https://user-images.githubusercontent.com/103630404/181175782-37f58596-db4d-4a4e-861b-95779241f8a7.png" width="50px" alt="LinkedIn Badge"/>
     </a>
     &emsp;
-    <a href="http://instagram.com/__gowdham_official_">
+    <a href="http://instagram.com/dhyaneshwarannj">
       <img src="https://user-images.githubusercontent.com/103630404/181739423-40f45e04-68ac-40a0-9958-11314bdba285.png" width="50px" alt="LinkedIn Badge"/>
     </a>
   </div>
